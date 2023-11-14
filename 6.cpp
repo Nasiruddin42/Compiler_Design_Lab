@@ -66,4 +66,7 @@ int main(){
     else if(isBinaryNumber(input)){
         cout << "Binary Number" << endl ;
     }
+    else{
+        cout << "Invalid" << endl ;
+    }
 }
