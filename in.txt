@@ -1,1 +1,12 @@
-0111111
+S->ABCDE
+A->BCDE
+B->CDEF
+C->DEFG
+D->EFG
+E->FG
+F->Ha
+F->b
+F->@
+H->a
+H->@
+G->@
